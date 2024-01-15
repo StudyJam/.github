@@ -1,3 +1,10 @@
+<p align="center">
+  <a href="https://github.com/StudyJam">
+    <img src="https://github.com/StudyJam.png" alt="Your Name" width="100" height="100">
+  </a>
+</p>
+
+
 <h1 align="center" >Welcome to <a href="#" target="_blank"> Study Jam </a>- Your Gateway to Seamless Learning!</h1>
 
 
